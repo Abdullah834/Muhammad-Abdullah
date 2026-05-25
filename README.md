@@ -40,13 +40,3 @@ Windows app in **C#** with GUI & yt-dlp integration
 Full-featured **ASP.NET Core Web App** with EF Core  
 
 ---
-
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✨ Fun Quote
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
